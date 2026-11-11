@@ -1,5 +1,5 @@
 # Folio-PDF-Reader
-A lightweight PDF reader to make reading easier<br>
+A lightweight PDF reader to make reading easier (not compatible with mobile devices as of yet)<br>
 Website: https://itsthedaniel.github.io/Folio-PDF-Reader/
 
 <img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/f314d5fe-4271-4f10-9b2f-d28e84107681" />
